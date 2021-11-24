@@ -3,7 +3,7 @@
 > An `<Image/>` element with a url to Google Static Map <br>
 > See [Google Static Maps API](https://developers.google.com/maps/documentation/maps-static/overview#quick_example).
 
-[![License](https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12)](https://github.com/wandersonalwes/react-native-google-static-map-next/blob/master/LICENSE) [![Languages](https://img.shields.io/github/languages/count/wandersonalwes/react-native-google-static-map-next?color=%33CC12&style=flat-square)](#)
+[![.github/workflows/npm-publish.yml](https://github.com/wandersonalwes/react-native-google-static-map-next/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/wandersonalwes/react-native-google-static-map-next/actions/workflows/npm-publish.yml) [![License](https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12)](https://github.com/wandersonalwes/react-native-google-static-map-next/blob/master/LICENSE) [![Languages](https://img.shields.io/github/languages/count/wandersonalwes/react-native-google-static-map-next?color=%33CC12&style=flat-square)](#)
 [![Contributors](https://img.shields.io/github/contributors/wandersonalwes/react-native-google-static-map-next?color=33CC12&style=flat-square)](https://github.com/wandersonalwes/react-native-google-static-map-next/graphs/contributors)
 
 ---
