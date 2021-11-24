@@ -45,14 +45,14 @@ function Example() {
 | Prop                  | Type     | Description                                                          | Default   |
 | --------------------- | -------- | -------------------------------------------------------------------- | --------- |
 | **`location`**        | `Object` | the map location - `{ latitude: '-33.8688', longitude: '151.2195' }` | undefined |
-| **`size`**            | `string` | the image size - `{ width: 300, height: 550 }`                       | undefined |
-| **`zoom`**            | `number` | defines the zoom level of the map.                                   | 15        |
-| **`scale`**           | `number` | scale=2 returns twice as many pixels as scale=1.                     | 1         |
-| **`format`**          | `number` | 'png', 'gif', 'jpg'                                                  | png       |
-| **`mapType`**         | `string` | 'roadmap', 'satellite', 'terrain', 'hybrid'.                         | roadmap   |
-| **`hasCenterMarker`** | `bool`   | add a marker on the center.                                          | true      |
-| **`apiKey`**          | `string` | Google API Key                                                       | undefined |
-| **`customMarkerUrl`** | `string` | Custom marker url                                                    | undefined |
+| **`size`**            | `Object` | the image size - `{ width: 300, height: 550 }`                       | undefined |
+| **`zoom`**            | `Number` | defines the zoom level of the map.                                   | 15        |
+| **`scale`**           | `Number` | scale=2 returns twice as many pixels as scale=1.                     | 1         |
+| **`format`**          | `String` | 'png', 'gif', 'jpg'                                                  | png       |
+| **`mapType`**         | `String` | 'roadmap', 'satellite', 'terrain', 'hybrid'.                         | roadmap   |
+| **`hasCenterMarker`** | `Boolean`   | add a marker on the center.                                          | true      |
+| **`apiKey`**          | `String` | Google API Key                                                       | undefined |
+| **`customMarkerUrl`** | `String` | Custom marker url                                                    | undefined |
 
 ## Issues
 
