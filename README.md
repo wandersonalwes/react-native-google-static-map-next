@@ -17,7 +17,7 @@ npm install --save react-native-google-static-map-next
 ou
 
 ```shel
-yarn react-native-google-static-map-next
+yarn add react-native-google-static-map-next
 ```
 
 ## Usage
