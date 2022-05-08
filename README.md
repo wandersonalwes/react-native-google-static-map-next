@@ -34,7 +34,7 @@ function Example() {
         longitude: '151.2195',
       }}
       size={{ width: 400, height: 400 }}
-      apiKey="123456789-ABCDFGHIJK
+      apiKey="123456789-ABCDFGHIJK"
     />
   );
 }
